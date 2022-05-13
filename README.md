@@ -33,7 +33,7 @@ Using Golang(net/socket) to httpflood
 
 Then:
 
-    git clone https://github.com/Leeon123/golang-httpflood.git
+    git clone https://github.com/sweety519/HTTP-Flood-Master.git
 
 Header.txt format:
 
